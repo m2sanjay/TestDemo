@@ -1,0 +1,1 @@
+java -cp lib/IGIndexGUI_1.jar;lib/AbsoluteLayout.jar;lib/jdatepicker-1.3.4.jar com.ig.ui.ConfigUI
